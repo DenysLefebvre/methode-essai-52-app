@@ -1,0 +1,142 @@
+{
+  "category": "3.3.3 - Couches de roulement en béton bitumineux",
+  "version": "V1-field",
+  "degradations": [
+    {
+      "id": 51,
+      "name": "Glaçage / Indentation",
+      "code_me52": "51",
+      "danger_immediate": false,
+      "type_principal": "surface",
+      "urgence": "faible",
+      "description_courte": "Surface lisse et brillante due au polissage des granulats.",
+      "causes_probables": [
+        "Trafic intense",
+        "Granulats polissables",
+        "Choix de formulation inadapté"
+      ],
+      "action_immediate": "Surveillance et mesure d'adhérence.",
+      "remediation_durable": "Reprofilage ou renouvellement de la couche de roulement.",
+      "risque_si_non_traite": "Perte d'adhérence et risque de glissance."
+    },
+    {
+      "id": 52,
+      "name": "Ornière à petit rayon",
+      "code_me52": "52",
+      "danger_immediate": false,
+      "type_principal": "deformation",
+      "urgence": "moyenne",
+      "description_courte": "Déformation localisée dans les bandes de roulement.",
+      "causes_probables": [
+        "Insuffisance de portance",
+        "Excès de liant",
+        "Température élevée + trafic lourd"
+      ],
+      "action_immediate": "Surveillance et signalisation si nécessaire.",
+      "remediation_durable": "Reprise structurelle localisée ou renouvellement.",
+      "risque_si_non_traite": "Accumulation d’eau et instabilité des véhicules."
+    },
+    {
+      "id": 53,
+      "name": "Fissure de joint",
+      "code_me52": "53",
+      "danger_immediate": false,
+      "type_principal": "fissure",
+      "urgence": "moyenne",
+      "description_courte": "Fissure longitudinale au droit d’un joint de mise en œuvre.",
+      "causes_probables": [
+        "Mauvaise liaison entre passes",
+        "Compactage insuffisant",
+        "Vieillissement du liant"
+      ],
+      "action_immediate": "Colmatage préventif.",
+      "remediation_durable": "Reprise du joint ou rabotage localisé.",
+      "risque_si_non_traite": "Infiltration d’eau et évolution vers faïençage."
+    },
+    {
+      "id": 54,
+      "name": "Désenrobage",
+      "code_me52": "54",
+      "danger_immediate": false,
+      "type_principal": "perte_matiere",
+      "urgence": "moyenne",
+      "description_courte": "Perte d’adhérence entre liant et granulats.",
+      "causes_probables": [
+        "Présence d’eau",
+        "Incompatibilité granulat/liant",
+        "Défaut de formulation"
+      ],
+      "action_immediate": "Traitement localisé préventif.",
+      "remediation_durable": "Reprise localisée de la couche.",
+      "risque_si_non_traite": "Désagrégation progressive."
+    },
+    {
+      "id": 55,
+      "name": "Pelade",
+      "code_me52": "55",
+      "danger_immediate": false,
+      "type_principal": "perte_matiere",
+      "urgence": "moyenne",
+      "description_courte": "Arrachement superficiel progressif des granulats.",
+      "causes_probables": [
+        "Adhésion insuffisante",
+        "Vieillissement",
+        "Action mécanique du trafic"
+      ],
+      "action_immediate": "Surveillance et traitement préventif.",
+      "remediation_durable": "Renouvellement superficiel.",
+      "risque_si_non_traite": "Évolution vers désenrobage."
+    },
+    {
+      "id": 56,
+      "name": "Nid de poule",
+      "code_me52": "56",
+      "danger_immediate": true,
+      "type_principal": "trou",
+      "urgence": "elevee",
+      "description_courte": "Cavité localisée résultant d’une désagrégation complète.",
+      "causes_probables": [
+        "Infiltration d’eau",
+        "Gel/dégel",
+        "Faïençage évolué"
+      ],
+      "action_immediate": "Réparation rapide et sécurisation.",
+      "remediation_durable": "Découpe propre et reprise en enrobé chaud.",
+      "risque_si_non_traite": "Danger immédiat pour les usagers."
+    },
+    {
+      "id": 57,
+      "name": "Faïençage",
+      "code_me52": "57",
+      "danger_immediate": false,
+      "type_principal": "fissure",
+      "urgence": "moyenne",
+      "description_courte": "Réseau de fissures en maillage serré.",
+      "causes_probables": [
+        "Fatigue structurelle",
+        "Sous-dimensionnement",
+        "Trafic lourd"
+      ],
+      "action_immediate": "Surveillance ou traitement préventif.",
+      "remediation_durable": "Renforcement structurel ou renouvellement.",
+      "risque_si_non_traite": "Évolution vers désagrégation."
+    },
+    {
+      "id": 58,
+      "name": "Fissures en étoile",
+      "code_me52": "58",
+      "danger_immediate": false,
+      "type_principal": "fissure",
+      "urgence": "faible",
+      "description_courte": "Fissures rayonnantes autour d’un point localisé.",
+      "causes_probables": [
+        "Impact",
+        "Faiblesse locale",
+        "Défaut structurel ponctuel"
+      ],
+      "action_immediate": "Colmatage préventif.",
+      "remediation_durable": "Reprise localisée si évolution.",
+      "risque_si_non_traite": "Propagation des fissures."
+    }
+  ]
+}
