@@ -42,3 +42,21 @@ Risque si non traité :
 [ URGENCE ]
 [ ACTION IMMÉDIATE ]
 [ REMÉDIATION DURABLE ]
+
+---
+
+# Extension future – Module Pro (non activé en V1)
+
+Objectif :
+Permettre l’ajout de recommandations techniques avancées
+selon les équipements disponibles ou la stratégie d’entretien.
+
+Exemples de modules activables :
+
+- Réparation projetée sous pression
+- Enrobé chaud traditionnel
+- Micro-enduit
+- Traitement préventif
+- Planification budgétaire
+
+Ce module sera désactivé dans la version publique V1.
